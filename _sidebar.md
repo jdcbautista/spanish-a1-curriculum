@@ -1,0 +1,9 @@
+- [Home](home.md)
+- **Lessons**
+  - [1. Greetings and introductions](lessons/01-greetings.md)
+  - [2. Numbers 0–20 and age](lessons/02-numbers.md)
+  - [3. Regular -ar verbs](lessons/03-ar-verbs.md)
+  - [4. At the café](lessons/04-cafe.md)
+- **About**
+  - [Maintaining this course](README.md)
+  - [Changelog](CHANGELOG.md)
