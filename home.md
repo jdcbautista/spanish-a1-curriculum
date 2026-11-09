@@ -27,4 +27,4 @@ A beginner Spanish course for adults with no prior Spanish. Four lessons take yo
 | ll | y, as in *yes* | *me llamo* (meh YAH-moh) |
 | ñ | ny, as in *canyon* | *año* (AH-nyoh) |
 
-This site was made from the [Curriculum Pages Template](https://jdcbautista.github.io/curriculum-pages-template/).
+This site was made from the [Curriculum Pages Template](https://juliusbautista.com/curriculum-pages-template/).

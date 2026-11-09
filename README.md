@@ -2,7 +2,7 @@
 
 A four-lesson beginner Spanish course published as a zero-build GitHub Pages site.
 
-- Live site: https://jdcbautista.github.io/spanish-a1-curriculum/
+- Live site: https://juliusbautista.com/spanish-a1-curriculum/
 - Made from: [Curriculum Pages Template](https://github.com/jdcbautista/curriculum-pages-template), which documents the full build, run and maintain guide
 - Owner: the Curriculum Pipeline (JC Labs), listed in its `repositories.json`
 
